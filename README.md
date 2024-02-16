@@ -1,6 +1,10 @@
 # S3_CDK
 Create an S3 Bucket using CDK with AWS CodeWhisperer.
 
+### Use of CodeWhisperer:
+For this project, I used CodeWhisperer to get information about the use of `cdk` and to understand what the policy buckets are. It helped me select the overall Permission Policies required for this project. 
+
+
 ## Pre-requisites and Setting Up
 Make the directory in your github repository and navigate to it.
 
